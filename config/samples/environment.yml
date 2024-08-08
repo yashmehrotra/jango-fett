@@ -1,0 +1,12 @@
+apiVersion: jango-fett.bukukas.io/v1alpha1
+kind: Environment
+metadata:
+  name: environment-sample
+  namespace: yash
+spec:
+  users:
+    - yash@beecash.io
+    - madhukar@beecash.io
+  config:
+    foo: bar
+    x: ty

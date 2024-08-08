@@ -1,0 +1,6 @@
+apiVersion: jango-fett.bukukas.io/v1alpha1
+kind: PostgreSQL
+metadata:
+  name: postgres-sample
+  namespace: jf-enviroment-sample
+spec: {}

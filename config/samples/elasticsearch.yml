@@ -1,0 +1,6 @@
+apiVersion: jango-fett.bukukas.io/v1alpha1
+kind: Elasticsearch
+metadata:
+  name: elasticsearch-sample
+  namespace: jf-environment-sample
+spec: {}
